@@ -13,5 +13,5 @@
   <li>Utiliza HTML para a estrutura e CSS para o design visual da página.</li>
 </ul>
 
-<h2>Foto da página:</h2>
+<h2> 🖼️ Foto da página:</h2>
 <img src="https://github.com/user-attachments/assets/54e8c5ab-f61f-4813-b546-cd7d8eeb6004">
